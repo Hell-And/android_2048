@@ -2,7 +2,7 @@
 Android原生，小游戏2048
 
 # 效果
-![](https://github.com/LoverAnd/android_2048/blob/master/gif)
+![](https://github.com/LoverAnd/android_2048/blob/master/gif.gif)
 
 # 核心代码
 
